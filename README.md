@@ -1,2 +1,2 @@
-Dummy project
+lorem Dummy project
 Html project
